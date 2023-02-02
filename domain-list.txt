@@ -19,7 +19,7 @@
 0.0.0.0 ossedm.com
 0.0.0.0 exacttarget.com	
 0.0.0.0 aliyun.com
-0.0.0.0 netease
+0.0.0.0 netease.com
 0.0.0.0 163.com
 0.0.0.0 163.net
 0.0.0.0 postman.co.kr	
