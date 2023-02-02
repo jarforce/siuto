@@ -144,6 +144,7 @@
 0.0.0.0 klaviyomail.com	
 0.0.0.0 krelaymail.com	
 0.0.0.0 chromeriver.com	
+0.0.0.0 hubpots.com
 0.0.0.0 chromefile.com	
 0.0.0.0 en25.com
 0.0.0.0 cityexpress.com
