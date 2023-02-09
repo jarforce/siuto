@@ -1,4 +1,5 @@
 0.0.0.0 chinaregistry.org
+0.0.0.0 mailserver.com.
 0.0.0.0 chinatradehome	
 0.0.0.0 tempful.org
 0.0.0.0 sendibm1.com
