@@ -1,4 +1,6 @@
 0.0.0.0 chinaregistry.org
+0.0.0.0 prodigitalagency-inc.com
+0.0.0.0 now-dns.org
 0.0.0.0 ussind.com.
 0.0.0.0 mailserver.com.
 0.0.0.0 chinatradehome	
