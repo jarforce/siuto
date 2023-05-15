@@ -2,8 +2,8 @@
 0.0.0.0 discourse-cdn.com
 0.0.0.0 prodigitalagency-inc.com
 0.0.0.0 now-dns.org
-0.0.0.0 ussind.com.
-0.0.0.0 mailserver.com.
+0.0.0.0 ussind.com
+0.0.0.0 mailserver.com
 0.0.0.0 chinatradehome	
 0.0.0.0 tempful.org
 0.0.0.0 sendibm1.com
@@ -139,7 +139,7 @@
 0.0.0.0 aftership.com	
 0.0.0.0 zenoline.co.kr	
 0.0.0.0 olabosci.com
-0.0.0.0 teqfj.cc.
+0.0.0.0 teqfj.cc
 0.0.0.0 impressbss.com	
 0.0.0.0 spectra-bd.com	
 0.0.0.0 MONOVM.COM
