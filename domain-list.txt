@@ -1,5 +1,7 @@
 0.0.0.0 chinaregistry.org
 0.0.0.0 eventsinfoleads.com
+0.0.0.0 berrymobile.jp
+0.0.0.0 ipfs.io
 0.0.0.0 discourse-cdn.com
 0.0.0.0 prodigitalagency-inc.com
 0.0.0.0 now-dns.org
