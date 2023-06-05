@@ -1,4 +1,9 @@
 0.0.0.0 chinaregistry.org
+0.0.0.0 taikanglife.com
+0.0.0.0 eastmoney.com
+0.0.0.0 wellcom.cn
+0.0.0.0 edumoreira.com.br
+0.0.0.0 chinatradehome.com
 0.0.0.0 nedbank.co.za
 0.0.0.0 eventsinfoleads.com
 0.0.0.0 berrymobile.jp
