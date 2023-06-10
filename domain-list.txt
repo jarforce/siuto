@@ -1,5 +1,6 @@
 0.0.0.0 chinaregistry.org
 0.0.0.0 elamollc.com
+0.0.0.0 mobilesoftco.com
 0.0.0.0 edumoreira.com.br
 0.0.0.0 aonerivertech.com
 0.0.0.0 taikanglife.com
