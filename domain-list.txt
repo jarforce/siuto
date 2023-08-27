@@ -1,4 +1,5 @@
 0.0.0.0 chinaregistry.org
+0.0.0.0 popads.net
 0.0.0.0 elamollc.com
 0.0.0.0 credipaz.com
 0.0.0.0 mendami.com
