@@ -1,6 +1,14 @@
 0.0.0.0 chinaregistry.org
+#0.0.0.0 stc-sp.zadn.vn
+0.0.0.0 shop.zalo.me
+0.0.0.0 static.adtima.vn
+0.0.0.0 adtima-media-td.zadn.vn
+0.0.0.0 stats.zaloapp.com
+0.0.0.0 static-ads.zaloapp.com
+0.0.0.0 log.api.zaloapp.com
+0.0.0.0 zminer.zaloapp.com
+0.0.0.0 dev.server.stats.zaloapp.com
 0.0.0.0 popads.net
-13.56.140.118
 0.0.0.0 bsprzysucha.pl
 0.0.0.0 elamollc.com
 0.0.0.0 credipaz.com
