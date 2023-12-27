@@ -1,4 +1,9 @@
 0.0.0.0 chinaregistry.org
+0.0.0.0 icio.us
+0.0.0.0 avast.com
+0.0.0.0 ip-info.ff.avast.com
+0.0.0.0 shepherd.sb.avast.com
+0.0.0.0 analytics.ff.avast.com
 #0.0.0.0 stc-sp.zadn.vn
 0.0.0.0 shop.zalo.me
 0.0.0.0 static.adtima.vn
